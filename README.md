@@ -6,6 +6,6 @@
 
 3 - Télécharger les fichiers déposés et les mettre dans un répertoire qui sera dans "wamp64 > www" et lancer Wampserver. (adapter si besoin le code php avec les identifiants de connexion, ce sont ici ceux par défaut)
 
-4 - Ouvrir un navigateur web et taper "localhost/'nom_du_dossier_dans_www'/www/index.php".
+4 - Ouvrir un navigateur web et taper "localhost/'nom_du_dossier_dans_www'/index.php".
 
 5 - Se connecter à l'aide des identifiants précédemment entrés.
